@@ -31,7 +31,7 @@
     "coap-cli": "0.4.0",
     "command-node": "0.1.1",
     "mongodb": "2.1.7",
-    "mongoose": "4.4.3",
+    "mongoose": "5.7.5",
     "mongoose-auto-increment": "5.0.1",
     "logops": "0.5.0",
     "underscore": "1.7.0"
